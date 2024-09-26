@@ -99,8 +99,8 @@ public class Main {
 
     public static void main(String[] args) {
         // Sample data for quick testing
-        Instructor instructor1 = new Instructor("john_doe", "password123");
-        Student student1 = new Student("jane_smith", "pass456");
+        Instructor instructor1 = new Instructor("dhruv_agg", "dhruvagg");
+        Student student1 = new Student("dhruv_student_id", "dhruv_student_pass");
         users.add(instructor1);
         users.add(student1);
 
